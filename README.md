@@ -1,4 +1,4 @@
-# 🧠 Project Title: The Level of Stress among Non-teaching staff of Patna University.
+# 🧠 Project Title: The study of Level of Stress among Non-teaching staff of Patna University.
 
 ## 📘 Overview  
 This project titled The Level of Stress among Non-teaching staff of Patna University, focuses on finding out how stressed were the non-teaching staff were at the said unversity.
